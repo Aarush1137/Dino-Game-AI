@@ -22,6 +22,10 @@ Some shortcuts:
 
 Follow these steps to run the project locally.
 
+## Screenshot
+
+![N.E.A.T Neural Network Visualization](./assets/ss.png)
+
 1. Clone the repository (HTTPS)
 
    `git clone https://github.com/Aarush1137/Dino-Game-AI `
