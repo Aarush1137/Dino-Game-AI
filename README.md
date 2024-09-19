@@ -4,7 +4,7 @@ The offline Google chrome dino game with the NEAT (Neuroevolution of Augmenting 
 
 ## Live Demo
 
-[View Live Site Here]()
+[View Live Site Here](https://dino-game-ai.vercel.app/)
 
 Some shortcuts:
 
