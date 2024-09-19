@@ -24,11 +24,11 @@ Follow these steps to run the project locally.
 
 1. Clone the repository (HTTPS)
 
-   `git clone `
+   `git clone https://github.com/Aarush1137/Dino-Game-AI `
 
 2. Navigate to the project
 
-   `cd chromedino_game_ai`
+   `cd Dino-Game-AI`
 
 3. Open the project
    You can open the project by launching the index.html file or using a local server setup if required.
